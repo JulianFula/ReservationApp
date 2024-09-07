@@ -1,0 +1,145 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ApiRest</name>
+    </assembly>
+    <members>
+        <member name="T:ApiRest.Controllers.AuthController">
+            <summary>
+            Controlador para gestionar la autentificacion y el registro.
+            </summary>
+        </member>
+        <member name="M:ApiRest.Controllers.AuthController.#ctor(ApiRest.Services.Login.IAuthService)">
+            <summary>
+            Inicializa una nueva instancia del controlador <see cref="T:ApiRest.Controllers.AuthController"/>.
+            </summary>
+            <param name="authService">Servicio de autentificacion.</param>
+        </member>
+        <member name="M:ApiRest.Controllers.AuthController.login(ApiRest.Models.Login.AuthRequest)">
+            <summary>
+            Permite logearse y obtener un token de autorizacion.
+            </summary>
+            <returns>Token de autorizacion.</returns>
+        </member>
+        <member name="M:ApiRest.Controllers.AuthController.Register(ApiRest.Models.Login.AuthRequest)">
+            <summary>
+            Crea un nuevo usuario.
+            </summary>
+            <param name="AuthRequest">Detalles del Usuario a crear.</param>
+            <returns>El usuario creado.</returns>
+        </member>
+        <member name="T:ApiRest.Controllers.ReservationsController">
+            <summary>
+            Controlador para gestionar las reservas.
+            </summary>
+        </member>
+        <member name="M:ApiRest.Controllers.ReservationsController.#ctor(ApiRest.Services.Reservation.IReservationService)">
+            <summary>
+            Inicializa una nueva instancia del controlador <see cref="T:ApiRest.Controllers.ReservationsController"/>.
+            </summary>
+            <param name="reservationService">Servicio de reserva.</param>
+        </member>
+        <member name="M:ApiRest.Controllers.ReservationsController.GetReservations">
+            <summary>
+            Obtiene todas las reservas.
+            </summary>
+            <returns>Una lista de reservas.</returns>
+        </member>
+        <member name="M:ApiRest.Controllers.ReservationsController.GetReservation(System.Int32)">
+            <summary>
+            Obtiene una reserva específica por su ID.
+            </summary>
+            <param name="id">ID de la reserva.</param>
+            <returns>La reserva correspondiente.</returns>
+        </member>
+        <member name="M:ApiRest.Controllers.ReservationsController.CreateReservation(ApiRest.Models.ReservationRequest)">
+            <summary>
+            Crea una nueva reserva.
+            </summary>
+            <param name="reservationRequest">Detalles de la reserva a crear.</param>
+            <returns>La reserva creada.</returns>
+        </member>
+        <member name="M:ApiRest.Controllers.ReservationsController.UpdateReservation(System.Int32,ApiRest.Models.Reservation)">
+            <summary>
+            Actualiza una reserva existente.
+            </summary>
+            <param name="id">ID de la reserva a actualizar.</param>
+            <param name="reservation">Detalles actualizados de la reserva.</param>
+            <returns>Respuesta HTTP.</returns>
+        </member>
+        <member name="M:ApiRest.Controllers.ReservationsController.DeleteReservation(System.Int32)">
+            <summary>
+            Elimina una reserva específica por su ID.
+            </summary>
+            <param name="id">ID de la reserva a eliminar.</param>
+            <returns>Respuesta HTTP.</returns>
+        </member>
+        <member name="M:ApiRest.Controllers.ReservationsController.FilterReservations(System.Nullable{System.DateTime},System.Nullable{System.Int32},System.Nullable{System.Int32})">
+            <summary>
+            Filtra las reservas según los parámetros proporcionados.
+            </summary>
+            <param name="date">Fecha de la reserva.</param>
+            <param name="serviceId">ID del servicio.</param>
+            <param name="customerId">ID del cliente.</param>
+            <returns>Una lista de reservas filtradas.</returns>
+        </member>
+        <member name="T:ApiRest.Controllers.UserController">
+            <summary>
+            Controlador para gestionar los usuarios.
+            </summary>
+        </member>
+        <member name="M:ApiRest.Controllers.UserController.#ctor(ApiRest.Services.User.IUserService)">
+            <summary>
+            Inicializa una nueva instancia del controlador <see cref="T:ApiRest.Controllers.UserController"/>.
+            </summary>
+            <param name="userService">Servicio de usuarios.</param>
+        </member>
+        <member name="M:ApiRest.Controllers.UserController.GetUsers">
+            <summary>
+            Obtiene todos los usuarios.
+            </summary>
+            <returns>Una lista de usuarios.</returns>
+        </member>
+        <member name="M:ApiRest.Controllers.UserController.GetUser(System.Int32)">
+            <summary>
+            Obtiene una usuario específico por su ID.
+            </summary>
+            <param name="id">ID del usuario.</param>
+            <returns>El usuario correspondiente.</returns>
+        </member>
+        <member name="M:ApiRest.Controllers.UserController.CreateUser(ApiRest.Models.User)">
+            <summary>
+            Crea una nuevo usuario.
+            </summary>
+            <param name="User">Detalles del usuario a crear.</param>
+            <returns>El usuario creado.</returns>
+        </member>
+        <member name="M:ApiRest.Controllers.UserController.UpdateUser(System.Int32,ApiRest.Models.User)">
+            <summary>
+            Actualiza un usuario existente.
+            </summary>
+            <param name="id">ID del usuario a actualizar.</param>
+            <param name="reservation">Detalles actualizados del usuario.</param>
+            <returns>Respuesta HTTP.</returns>
+        </member>
+        <member name="M:ApiRest.Controllers.UserController.DeleteUser(System.Int32)">
+            <summary>
+            Elimina un usuario específica por su ID.
+            </summary>
+            <param name="id">ID del usuario a eliminar.</param>
+            <returns>Respuesta HTTP.</returns>
+        </member>
+        <member name="T:ApiRest.Migrations.InitialCreate">
+            <inheritdoc />
+        </member>
+        <member name="M:ApiRest.Migrations.InitialCreate.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:ApiRest.Migrations.InitialCreate.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:ApiRest.Migrations.InitialCreate.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>

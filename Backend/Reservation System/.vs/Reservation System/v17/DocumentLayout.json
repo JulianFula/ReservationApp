@@ -1,0 +1,394 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fulju\\source\\repos\\Reservation System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9DE027-EFCE-419E-9CF3-9F21DA42F05C}|ApiRest\\ApiRest.csproj|c:\\users\\fulju\\source\\repos\\reservation system\\apirest\\apirest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7B9DE027-EFCE-419E-9CF3-9F21DA42F05C}|ApiRest\\ApiRest.csproj|solutionrelative:apirest\\apirest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9DE027-EFCE-419E-9CF3-9F21DA42F05C}|ApiRest\\ApiRest.csproj|c:\\users\\fulju\\source\\repos\\reservation system\\apirest\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7B9DE027-EFCE-419E-9CF3-9F21DA42F05C}|ApiRest\\ApiRest.csproj|solutionrelative:apirest\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9DE027-EFCE-419E-9CF3-9F21DA42F05C}|ApiRest\\ApiRest.csproj|c:\\users\\fulju\\source\\repos\\reservation system\\apirest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B9DE027-EFCE-419E-9CF3-9F21DA42F05C}|ApiRest\\ApiRest.csproj|solutionrelative:apirest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9DE027-EFCE-419E-9CF3-9F21DA42F05C}|ApiRest\\ApiRest.csproj|c:\\users\\fulju\\source\\repos\\reservation system\\apirest\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B9DE027-EFCE-419E-9CF3-9F21DA42F05C}|ApiRest\\ApiRest.csproj|solutionrelative:apirest\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9DE027-EFCE-419E-9CF3-9F21DA42F05C}|ApiRest\\ApiRest.csproj|c:\\users\\fulju\\source\\repos\\reservation system\\apirest\\controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B9DE027-EFCE-419E-9CF3-9F21DA42F05C}|ApiRest\\ApiRest.csproj|solutionrelative:apirest\\controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9DE027-EFCE-419E-9CF3-9F21DA42F05C}|ApiRest\\ApiRest.csproj|c:\\users\\fulju\\source\\repos\\reservation system\\apirest\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B9DE027-EFCE-419E-9CF3-9F21DA42F05C}|ApiRest\\ApiRest.csproj|solutionrelative:apirest\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9DE027-EFCE-419E-9CF3-9F21DA42F05C}|ApiRest\\ApiRest.csproj|c:\\users\\fulju\\source\\repos\\reservation system\\apirest\\models\\reservationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B9DE027-EFCE-419E-9CF3-9F21DA42F05C}|ApiRest\\ApiRest.csproj|solutionrelative:apirest\\models\\reservationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9DE027-EFCE-419E-9CF3-9F21DA42F05C}|ApiRest\\ApiRest.csproj|c:\\users\\fulju\\source\\repos\\reservation system\\apirest\\services\\reservation\\ireservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B9DE027-EFCE-419E-9CF3-9F21DA42F05C}|ApiRest\\ApiRest.csproj|solutionrelative:apirest\\services\\reservation\\ireservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9DE027-EFCE-419E-9CF3-9F21DA42F05C}|ApiRest\\ApiRest.csproj|c:\\users\\fulju\\source\\repos\\reservation system\\apirest\\services\\reservation\\reservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B9DE027-EFCE-419E-9CF3-9F21DA42F05C}|ApiRest\\ApiRest.csproj|solutionrelative:apirest\\services\\reservation\\reservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9DE027-EFCE-419E-9CF3-9F21DA42F05C}|ApiRest\\ApiRest.csproj|c:\\users\\fulju\\source\\repos\\reservation system\\apirest\\models\\auth\\authrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B9DE027-EFCE-419E-9CF3-9F21DA42F05C}|ApiRest\\ApiRest.csproj|solutionrelative:apirest\\models\\auth\\authrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9DE027-EFCE-419E-9CF3-9F21DA42F05C}|ApiRest\\ApiRest.csproj|c:\\users\\fulju\\source\\repos\\reservation system\\apirest\\apirest.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{7B9DE027-EFCE-419E-9CF3-9F21DA42F05C}|ApiRest\\ApiRest.csproj|solutionrelative:apirest\\apirest.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9DE027-EFCE-419E-9CF3-9F21DA42F05C}|ApiRest\\ApiRest.csproj|c:\\users\\fulju\\source\\repos\\reservation system\\apirest\\services\\auth\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B9DE027-EFCE-419E-9CF3-9F21DA42F05C}|ApiRest\\ApiRest.csproj|solutionrelative:apirest\\services\\auth\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9DE027-EFCE-419E-9CF3-9F21DA42F05C}|ApiRest\\ApiRest.csproj|c:\\users\\fulju\\source\\repos\\reservation system\\apirest\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B9DE027-EFCE-419E-9CF3-9F21DA42F05C}|ApiRest\\ApiRest.csproj|solutionrelative:apirest\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9DE027-EFCE-419E-9CF3-9F21DA42F05C}|ApiRest\\ApiRest.csproj|c:\\users\\fulju\\source\\repos\\reservation system\\apirest\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B9DE027-EFCE-419E-9CF3-9F21DA42F05C}|ApiRest\\ApiRest.csproj|solutionrelative:apirest\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9DE027-EFCE-419E-9CF3-9F21DA42F05C}|ApiRest\\ApiRest.csproj|c:\\users\\fulju\\source\\repos\\reservation system\\apirest\\services\\auth\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B9DE027-EFCE-419E-9CF3-9F21DA42F05C}|ApiRest\\ApiRest.csproj|solutionrelative:apirest\\services\\auth\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9DE027-EFCE-419E-9CF3-9F21DA42F05C}|ApiRest\\ApiRest.csproj|c:\\users\\fulju\\source\\repos\\reservation system\\apirest\\services\\user\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B9DE027-EFCE-419E-9CF3-9F21DA42F05C}|ApiRest\\ApiRest.csproj|solutionrelative:apirest\\services\\user\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9DE027-EFCE-419E-9CF3-9F21DA42F05C}|ApiRest\\ApiRest.csproj|c:\\users\\fulju\\source\\repos\\reservation system\\apirest\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B9DE027-EFCE-419E-9CF3-9F21DA42F05C}|ApiRest\\ApiRest.csproj|solutionrelative:apirest\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9DE027-EFCE-419E-9CF3-9F21DA42F05C}|ApiRest\\ApiRest.csproj|c:\\users\\fulju\\source\\repos\\reservation system\\apirest\\services\\customer\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B9DE027-EFCE-419E-9CF3-9F21DA42F05C}|ApiRest\\ApiRest.csproj|solutionrelative:apirest\\services\\customer\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9DE027-EFCE-419E-9CF3-9F21DA42F05C}|ApiRest\\ApiRest.csproj|c:\\users\\fulju\\source\\repos\\reservation system\\apirest\\services\\user\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B9DE027-EFCE-419E-9CF3-9F21DA42F05C}|ApiRest\\ApiRest.csproj|solutionrelative:apirest\\services\\user\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9DE027-EFCE-419E-9CF3-9F21DA42F05C}|ApiRest\\ApiRest.csproj|c:\\users\\fulju\\source\\repos\\reservation system\\apirest\\services\\service\\serviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B9DE027-EFCE-419E-9CF3-9F21DA42F05C}|ApiRest\\ApiRest.csproj|solutionrelative:apirest\\services\\service\\serviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9DE027-EFCE-419E-9CF3-9F21DA42F05C}|ApiRest\\ApiRest.csproj|c:\\users\\fulju\\source\\repos\\reservation system\\apirest\\services\\customer\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B9DE027-EFCE-419E-9CF3-9F21DA42F05C}|ApiRest\\ApiRest.csproj|solutionrelative:apirest\\services\\customer\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9DE027-EFCE-419E-9CF3-9F21DA42F05C}|ApiRest\\ApiRest.csproj|c:\\users\\fulju\\source\\repos\\reservation system\\apirest\\services\\service\\iserviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B9DE027-EFCE-419E-9CF3-9F21DA42F05C}|ApiRest\\ApiRest.csproj|solutionrelative:apirest\\services\\service\\iserviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\fulju\\source\\repos\\Reservation System\\ApiRest\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ApiRest\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\fulju\\source\\repos\\Reservation System\\ApiRest\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ApiRest\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T16:57:20.89Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\fulju\\source\\repos\\Reservation System\\ApiRest\\Services\\Auth\\IAuthService.cs",
+              "RelativeDocumentMoniker": "ApiRest\\Services\\Auth\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\fulju\\source\\repos\\Reservation System\\ApiRest\\Services\\Auth\\IAuthService.cs",
+              "RelativeToolTip": "ApiRest\\Services\\Auth\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T17:00:56.686Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\fulju\\source\\repos\\Reservation System\\ApiRest\\Services\\Auth\\AuthService.cs",
+              "RelativeDocumentMoniker": "ApiRest\\Services\\Auth\\AuthService.cs",
+              "ToolTip": "C:\\Users\\fulju\\source\\repos\\Reservation System\\ApiRest\\Services\\Auth\\AuthService.cs",
+              "RelativeToolTip": "ApiRest\\Services\\Auth\\AuthService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T17:01:11.388Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\fulju\\source\\repos\\Reservation System\\ApiRest\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "ApiRest\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\fulju\\source\\repos\\Reservation System\\ApiRest\\Controllers\\UserController.cs",
+              "RelativeToolTip": "ApiRest\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAFQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T20:10:21.739Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\fulju\\source\\repos\\Reservation System\\ApiRest\\Services\\User\\IUserService.cs",
+              "RelativeDocumentMoniker": "ApiRest\\Services\\User\\IUserService.cs",
+              "ToolTip": "C:\\Users\\fulju\\source\\repos\\Reservation System\\ApiRest\\Services\\User\\IUserService.cs",
+              "RelativeToolTip": "ApiRest\\Services\\User\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T20:11:46.503Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\fulju\\source\\repos\\Reservation System\\ApiRest\\Services\\User\\UserService.cs",
+              "RelativeDocumentMoniker": "ApiRest\\Services\\User\\UserService.cs",
+              "ToolTip": "C:\\Users\\fulju\\source\\repos\\Reservation System\\ApiRest\\Services\\User\\UserService.cs",
+              "RelativeToolTip": "ApiRest\\Services\\User\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T20:12:03.341Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\fulju\\source\\repos\\Reservation System\\ApiRest\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "ApiRest\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\fulju\\source\\repos\\Reservation System\\ApiRest\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "ApiRest\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T20:32:11.263Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\fulju\\source\\repos\\Reservation System\\ApiRest\\Services\\Customer\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "ApiRest\\Services\\Customer\\ICustomerService.cs",
+              "ToolTip": "C:\\Users\\fulju\\source\\repos\\Reservation System\\ApiRest\\Services\\Customer\\ICustomerService.cs",
+              "RelativeToolTip": "ApiRest\\Services\\Customer\\ICustomerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T20:19:09.268Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\fulju\\source\\repos\\Reservation System\\ApiRest\\Services\\Customer\\CustomerService.cs",
+              "RelativeDocumentMoniker": "ApiRest\\Services\\Customer\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\fulju\\source\\repos\\Reservation System\\ApiRest\\Services\\Customer\\CustomerService.cs",
+              "RelativeToolTip": "ApiRest\\Services\\Customer\\CustomerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T20:19:17.521Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ServicesController.cs",
+              "DocumentMoniker": "C:\\Users\\fulju\\source\\repos\\Reservation System\\ApiRest\\Controllers\\ServicesController.cs",
+              "RelativeDocumentMoniker": "ApiRest\\Controllers\\ServicesController.cs",
+              "ToolTip": "C:\\Users\\fulju\\source\\repos\\Reservation System\\ApiRest\\Controllers\\ServicesController.cs",
+              "RelativeToolTip": "ApiRest\\Controllers\\ServicesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T20:37:49.666Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IServiceService.cs",
+              "DocumentMoniker": "C:\\Users\\fulju\\source\\repos\\Reservation System\\ApiRest\\Services\\Service\\IServiceService.cs",
+              "RelativeDocumentMoniker": "ApiRest\\Services\\Service\\IServiceService.cs",
+              "ToolTip": "C:\\Users\\fulju\\source\\repos\\Reservation System\\ApiRest\\Services\\Service\\IServiceService.cs",
+              "RelativeToolTip": "ApiRest\\Services\\Service\\IServiceService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T20:22:39.785Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ServiceService.cs",
+              "DocumentMoniker": "C:\\Users\\fulju\\source\\repos\\Reservation System\\ApiRest\\Services\\Service\\ServiceService.cs",
+              "RelativeDocumentMoniker": "ApiRest\\Services\\Service\\ServiceService.cs",
+              "ToolTip": "C:\\Users\\fulju\\source\\repos\\Reservation System\\ApiRest\\Services\\Service\\ServiceService.cs",
+              "RelativeToolTip": "ApiRest\\Services\\Service\\ServiceService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T20:23:24.106Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReservationsController.cs",
+              "DocumentMoniker": "C:\\Users\\fulju\\source\\repos\\Reservation System\\ApiRest\\Controllers\\ReservationsController.cs",
+              "RelativeDocumentMoniker": "ApiRest\\Controllers\\ReservationsController.cs",
+              "ToolTip": "C:\\Users\\fulju\\source\\repos\\Reservation System\\ApiRest\\Controllers\\ReservationsController.cs",
+              "RelativeToolTip": "ApiRest\\Controllers\\ReservationsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T20:42:26.352Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IReservationService.cs",
+              "DocumentMoniker": "C:\\Users\\fulju\\source\\repos\\Reservation System\\ApiRest\\Services\\Reservation\\IReservationService.cs",
+              "RelativeDocumentMoniker": "ApiRest\\Services\\Reservation\\IReservationService.cs",
+              "ToolTip": "C:\\Users\\fulju\\source\\repos\\Reservation System\\ApiRest\\Services\\Reservation\\IReservationService.cs",
+              "RelativeToolTip": "ApiRest\\Services\\Reservation\\IReservationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T20:25:18.054Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReservationService.cs",
+              "DocumentMoniker": "C:\\Users\\fulju\\source\\repos\\Reservation System\\ApiRest\\Services\\Reservation\\ReservationService.cs",
+              "RelativeDocumentMoniker": "ApiRest\\Services\\Reservation\\ReservationService.cs",
+              "ToolTip": "C:\\Users\\fulju\\source\\repos\\Reservation System\\ApiRest\\Services\\Reservation\\ReservationService.cs",
+              "RelativeToolTip": "ApiRest\\Services\\Reservation\\ReservationService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T20:26:20.065Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fulju\\source\\repos\\Reservation System\\ApiRest\\Program.cs",
+              "RelativeDocumentMoniker": "ApiRest\\Program.cs",
+              "ToolTip": "C:\\Users\\fulju\\source\\repos\\Reservation System\\ApiRest\\Program.cs",
+              "RelativeToolTip": "ApiRest\\Program.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAASwBsAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T01:57:27.182Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApiRest.csproj",
+              "DocumentMoniker": "C:\\Users\\fulju\\source\\repos\\Reservation System\\ApiRest\\ApiRest.csproj",
+              "RelativeDocumentMoniker": "ApiRest\\ApiRest.csproj",
+              "ToolTip": "C:\\Users\\fulju\\source\\repos\\Reservation System\\ApiRest\\ApiRest.csproj",
+              "RelativeToolTip": "ApiRest\\ApiRest.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-06T16:28:43.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApiRest",
+              "DocumentMoniker": "C:\\Users\\fulju\\source\\repos\\Reservation System\\ApiRest\\ApiRest.csproj",
+              "RelativeDocumentMoniker": "ApiRest\\ApiRest.csproj",
+              "ToolTip": "C:\\Users\\fulju\\source\\repos\\Reservation System\\ApiRest\\ApiRest.csproj",
+              "RelativeToolTip": "ApiRest\\ApiRest.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-06T16:31:09.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthRequest.cs",
+              "DocumentMoniker": "C:\\Users\\fulju\\source\\repos\\Reservation System\\ApiRest\\Models\\Auth\\AuthRequest.cs",
+              "RelativeDocumentMoniker": "ApiRest\\Models\\Auth\\AuthRequest.cs",
+              "ToolTip": "C:\\Users\\fulju\\source\\repos\\Reservation System\\ApiRest\\Models\\Auth\\AuthRequest.cs",
+              "RelativeToolTip": "ApiRest\\Models\\Auth\\AuthRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T15:10:03.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\fulju\\source\\repos\\Reservation System\\ApiRest\\Models\\Reservation.cs",
+              "RelativeDocumentMoniker": "ApiRest\\Models\\Reservation.cs",
+              "ToolTip": "C:\\Users\\fulju\\source\\repos\\Reservation System\\ApiRest\\Models\\Reservation.cs",
+              "RelativeToolTip": "ApiRest\\Models\\Reservation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:27:08.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReservationRequest.cs",
+              "DocumentMoniker": "C:\\Users\\fulju\\source\\repos\\Reservation System\\ApiRest\\Models\\ReservationRequest.cs",
+              "RelativeDocumentMoniker": "ApiRest\\Models\\ReservationRequest.cs",
+              "ToolTip": "C:\\Users\\fulju\\source\\repos\\Reservation System\\ApiRest\\Models\\ReservationRequest.cs",
+              "RelativeToolTip": "ApiRest\\Models\\ReservationRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T19:29:19.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\fulju\\source\\repos\\Reservation System\\ApiRest\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ApiRest\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\fulju\\source\\repos\\Reservation System\\ApiRest\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ApiRest\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-05T02:23:46.319Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

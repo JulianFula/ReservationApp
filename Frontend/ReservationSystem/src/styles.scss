@@ -1,0 +1,20 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4; /* Color de fondo ligero */
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center; /* Centra horizontalmente */
+    align-items: center;     /* Centra verticalmente */
+    min-height: 100vh;       /* Altura mínima de la pantalla */
+  }
+  
+  .container {
+    background-color: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    width: 90%;
+    max-width: 100%;
+    margin: 20px;
+  }
