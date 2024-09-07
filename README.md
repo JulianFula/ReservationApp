@@ -1,4 +1,4 @@
-#ReservationApp
+##ReservationApp
 
 Este repositorio contiene el código fuente de una aplicación web completa con un backend en .NET Core y un frontend en Angular.
 
